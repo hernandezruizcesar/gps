@@ -5,12 +5,12 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="es"> <!--<![endif]-->
 <head>
 		<!-- Basic Page Needs
-	================================================== -->
+	==================================================== -->
 	<meta charset="utf-8">
 	<title><?PHP echo $nombrepagina;?></title>
 
 	<!-- Mobile Specific Metas
-	================================================== -->
+	======================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
